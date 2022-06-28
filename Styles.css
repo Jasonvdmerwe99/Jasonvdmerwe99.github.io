@@ -1,0 +1,66 @@
+.btn {
+    width: 50%;
+    height: fit-content;
+    border: 2px solid black;
+    border-radius: 5%;
+    margin: 5px;
+}
+
+.nav{
+    background-color: lightgray;
+}
+
+#MovieOnePrice,#MovieTwoPrice, #MovieThreePrice, #MovieFourPrice{
+    text-align: right;
+}
+
+#Basket{
+    text-align: right;  
+}
+
+#HomeTitle{
+    margin: 20px;
+}
+
+button{
+    background-color:paleturquoise;
+}
+
+button:hover{
+    background-color: lightblue;
+}
+
+thead{
+    background-color: lightgray;
+}
+
+#RemoveMTicket1,#RemoveMTicket2,#RemoveMTicket3,#RemoveMTicket4{
+    color: red;
+    cursor: pointer;
+}
+
+#AddMTicket1,#AddMTicket2,#AddMTicket3,#AddMTicket4{
+    color: blue;
+    cursor: pointer;
+}
+
+td,th{
+    text-align: left;
+}
+
+#TrashButton1,#TrashButton2,#TrashButton3,#TrashButton4{
+    color: red;
+    cursor: pointer;
+}
+
+#NoItemError{
+    font-size: x-large;
+}
+
+#Footer{
+    background-color: lightgray;
+}
+
+#StudentNumber{
+    margin: 20px;
+}
